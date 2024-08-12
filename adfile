@@ -1,0 +1,308 @@
+{
+   "AdsManager":{
+      "adNetwork" :"admob",
+      "interstitial_admob":"ca-app-pub-3940256099942544/1033173712",
+      "banner_admob":"ca-app-pub-3940256099942544/6300978111",
+      "native_admob":"ca-app-pub-9322101337669156/4518976388",
+
+      "interstitial_fan":"IMG_16_9_APP_INSTALL#465986095404427_474869491182754",
+      "banner_fan":"IMG_16_9_APP_INSTALL#465986095404427_474834121186291",
+      "native_fan":"IMG_16_9_APP_INSTALL#465986095404427_474850511184652"
+   },
+   "Songs" :[
+      {
+         "song_name":"01. Fina Ou Fina",
+         "artist":"Cheb Bilal",
+         "song_link":"https://www.nozika.co/down.php?s_id=52586",
+         "image":"https://od.lk/s/NzJfNDQwNTQ3NzNf/Cheb%20Bilal.png"
+      },
+      {
+         "song_name":"02. La Loi",
+         "artist":"Cheb Bilal",
+         "song_link":"https://www.nozika.co/down.php?s_id=33408",
+         "image":"https://od.lk/s/NzJfNDQwNTQ3NzNf/Cheb%20Bilal.png"
+      },
+      {
+         "song_name":"03. Hakmet 3liya",
+         "artist":"Cheb Bilal",
+         "song_link":"https://www.nozika.co/down.php?s_id=42773",
+         "image":"https://od.lk/s/NzJfNDQwNTQ3NzNf/Cheb%20Bilal.png"
+      },
+        {
+         "song_name":"04. El Kilo",
+         "artist":"Cheb Bilal",
+         "song_link":"https://www.nozika.co/down.php?s_id=42784",
+         "image":"https://od.lk/s/NzJfNDQwNTQ3NzNf/Cheb%20Bilal.png"
+      },
+        {
+         "song_name":"05. Please",
+         "artist":"Cheb Bilal",
+         "song_link":"https://www.nozika.co/down.php?s_id=35939",
+         "image":"https://od.lk/s/NzJfNDQwNTQ3NzNf/Cheb%20Bilal.png"
+      },
+        {
+         "song_name":"06. Habayebna",
+         "artist":"Cheb Bilal",
+         "song_link":"https://www.nozika.co/down.php?s_id=37312",
+         "image":"https://od.lk/s/NzJfNDQwNTQ3NzNf/Cheb%20Bilal.png"
+      },
+        {
+         "song_name":"07. Ahlamoukoum",
+         "artist":"Cheb Bilal",
+         "song_link":"https://www.nozika.co/down.php?s_id=37370",
+         "image":"https://od.lk/s/NzJfNDQwNTQ3NzNf/Cheb%20Bilal.png"
+      },
+        {
+         "song_name":"08. Baghya Naaraf feat Cheba Djenat",
+         "artist":"Cheb Bilal",
+         "song_link":"https://www.nozika.co/down.php?s_id=37371",
+         "image":"https://od.lk/s/NzJfNDQwNTQ3NzNf/Cheb%20Bilal.png"
+      },
+        {
+         "song_name":"09. I Am Sorry",
+         "artist":"Cheb Bilal",
+         "song_link":"https://www.nozika.co/down.php?s_id=37372",
+         "image":"https://od.lk/s/NzJfNDQwNTQ3NzNf/Cheb%20Bilal.png"
+      },
+        {
+         "song_name":"10. Machbatekch Ya Ma",
+         "artist":"Cheb Bilal",
+         "song_link":"https://www.nozika.co/down.php?s_id=37373",
+         "image":"https://od.lk/s/NzJfNDQwNTQ3NzNf/Cheb%20Bilal.png"
+      },
+        {
+         "song_name":"11. Naachek Soltana",
+         "artist":"Cheb Bilal",
+         "song_link":"https://www.nozika.co/down.php?s_id=37374",
+         "image":"https://od.lk/s/NzJfNDQwNTQ3NzNf/Cheb%20Bilal.png"
+      },
+        {
+         "song_name":"12. Naalemha Esalat",
+         "artist":"Cheb Bilal",
+         "song_link":"https://www.nozika.co/down.php?s_id=37375",
+         "image":"https://od.lk/s/NzJfNDQwNTQ3NzNf/Cheb%20Bilal.png"
+      },
+        {
+         "song_name":"13. Seksou Li Yendar",
+         "artist":"Cheb Bilal",
+         "song_link":"https://www.nozika.co/down.php?s_id=37376",
+         "image":"https://od.lk/s/NzJfNDQwNTQ3NzNf/Cheb%20Bilal.png"
+      },
+        {
+         "song_name":"14. Raha Bayna",
+         "artist":"Cheb Bilal",
+         "song_link":"https://www.nozika.co/down.php?s_id=38578",
+         "image":"https://od.lk/s/NzJfNDQwNTQ3NzNf/Cheb%20Bilal.png"
+      },
+        {
+         "song_name":"15. Romantique",
+         "artist":"Cheb Bilal",
+         "song_link":"https://www.nozika.co/down.php?s_id=38815",
+         "image":"https://od.lk/s/NzJfNDQwNTQ3NzNf/Cheb%20Bilal.png"
+      },
+        {
+         "song_name":"16. a3andi Mangol Fi Hadi",
+         "artist":"Cheb Bilal",
+         "song_link":"https://www.nozika.co/down.php?s_id=40189",
+         "image":"https://od.lk/s/NzJfNDQwNTQ3NzNf/Cheb%20Bilal.png"
+      },
+        {
+         "song_name":"17. Vida Loca",
+         "artist":"Cheb Bilal",
+         "song_link":"https://www.nozika.co/down.php?s_id=40768",
+         "image":"https://od.lk/s/NzJfNDQwNTQ3NzNf/Cheb%20Bilal.png"
+      },
+        {
+         "song_name":"18. Kadeb Li Ygoul ",
+         "artist":"Cheb Bilal",
+         "song_link":"https://www.nozika.co/down.php?s_id=40307",
+         "image":"https://od.lk/s/NzJfNDQwNTQ3NzNf/Cheb%20Bilal.png"
+      },
+        {
+         "song_name":"19. Yak Cest Ma Vie",
+         "artist":"Cheb Bilal",
+         "song_link":"https://www.nozika.co/down.php?s_id=42769",
+         "image":"https://od.lk/s/NzJfNDQwNTQ3NzNf/Cheb%20Bilal.png"
+      },
+        {
+         "song_name":"20. CHAWALA",
+         "artist":"Cheb Bilal",
+         "song_link":"https://www.nozika.co/down.php?s_id=42770",
+         "image":"https://od.lk/s/NzJfNDQwNTQ3NzNf/Cheb%20Bilal.png"
+      },
+        {
+         "song_name":"21. Ana Ou Ana",
+         "artist":"Cheb Bilal",
+         "song_link":"https://www.nozika.co/down.php?s_id=42771",
+         "image":"https://od.lk/s/NzJfNDQwNTQ3NzNf/Cheb%20Bilal.png"
+      },
+        {
+         "song_name":"22. A Ray Madaret Fia ",
+         "artist":"Cheb Bilal",
+         "song_link":"https://www.nozika.co/down.php?s_id=42787",
+         "image":"https://od.lk/s/NzJfNDQwNTQ3NzNf/Cheb%20Bilal.png"
+      },
+        {
+         "song_name":"23. Aadi",
+         "artist":"Cheb Bilal",
+         "song_link":"https://www.nozika.co/down.php?s_id=42788",
+         "image":"https://od.lk/s/NzJfNDQwNTQ3NzNf/Cheb%20Bilal.png"
+      },
+        {
+         "song_name":"24. Bezzaf Alia",
+         "artist":"Cheb Bilal",
+         "song_link":"https://www.nozika.co/down.php?s_id=42789",
+         "image":"https://od.lk/s/NzJfNDQwNTQ3NzNf/Cheb%20Bilal.png"
+      },
+        {
+         "song_name":"25. Chafouni Maaha",
+         "artist":"Cheb Bilal",
+         "song_link":"https://www.nozika.co/down.php?s_id=42790",
+         "image":"https://od.lk/s/NzJfNDQwNTQ3NzNf/Cheb%20Bilal.png"
+      },
+        {
+         "song_name":"26. Basta",
+         "artist":"Cheb Bilal",
+         "song_link":"https://www.nozika.co/down.php?s_id=42791",
+         "image":"https://od.lk/s/NzJfNDQwNTQ3NzNf/Cheb%20Bilal.png"
+      },
+        {
+         "song_name":"27. Bekri",
+         "artist":"Cheb Bilal",
+         "song_link":"https://www.nozika.co/down.php?s_id=42792",
+         "image":"https://od.lk/s/NzJfNDQwNTQ3NzNf/Cheb%20Bilal.png"
+      },
+        {
+         "song_name":"28. Bravo Alik",
+         "artist":"Cheb Bilal",
+         "song_link":"https://www.nozika.co/down.php?s_id=42793",
+         "image":"https://od.lk/s/NzJfNDQwNTQ3NzNf/Cheb%20Bilal.png"
+      },
+        {
+         "song_name":"29. C Pas Grave",
+         "artist":"Cheb Bilal",
+         "song_link":"https://www.nozika.co/down.php?s_id=42794",
+         "image":"https://od.lk/s/NzJfNDQwNTQ3NzNf/Cheb%20Bilal.png"
+      },
+        {
+         "song_name":"30. Chita",
+         "artist":"Cheb Bilal",
+         "song_link":"https://www.nozika.co/down.php?s_id=42795",
+         "image":"https://od.lk/s/NzJfNDQwNTQ3NzNf/Cheb%20Bilal.png"
+      },
+        {
+         "song_name":"31. Chouf Ghadi",
+         "artist":"Cheb Bilal",
+         "song_link":"https://www.nozika.co/down.php?s_id=42796",
+         "image":"https://od.lk/s/NzJfNDQwNTQ3NzNf/Cheb%20Bilal.png"
+      },
+        {
+         "song_name":"32. El Bhayam",
+         "artist":"Cheb Bilal",
+         "song_link":"https://www.nozika.co/down.php?s_id=42797",
+         "image":"https://od.lk/s/NzJfNDQwNTQ3NzNf/Cheb%20Bilal.png"
+      },
+        {
+         "song_name":"33. Kadem Nefsek",
+         "artist":"Cheb Bilal",
+         "song_link":"https://www.nozika.co/down.php?s_id=42798",
+         "image":"https://od.lk/s/NzJfNDQwNTQ3NzNf/Cheb%20Bilal.png"
+      },
+        {
+         "song_name":"34. Khedma Khedma",
+         "artist":"Cheb Bilal",
+         "song_link":"https://www.nozika.co/down.php?s_id=42799",
+         "image":"https://od.lk/s/NzJfNDQwNTQ3NzNf/Cheb%20Bilal.png"
+      },
+        {
+         "song_name":"35. Las Dos",
+         "artist":"Cheb Bilal",
+         "song_link":"https://www.nozika.co/down.php?s_id=42800",
+         "image":"https://od.lk/s/NzJfNDQwNTQ3NzNf/Cheb%20Bilal.png"
+      },
+        {
+         "song_name":"36. Li Bghana",
+         "artist":"Cheb Bilal",
+         "song_link":"https://www.nozika.co/down.php?s_id=42801",
+         "image":"https://od.lk/s/NzJfNDQwNTQ3NzNf/Cheb%20Bilal.png"
+      },
+        {
+         "song_name":"37. Litim",
+         "artist":"Cheb Bilal",
+         "song_link":"https://www.nozika.co/down.php?s_id=42802",
+         "image":"https://od.lk/s/NzJfNDQwNTQ3NzNf/Cheb%20Bilal.png"
+      },
+        {
+         "song_name":"38. Mlovi Alik",
+         "artist":"Cheb Bilal",
+         "song_link":"https://www.nozika.co/down.php?s_id=42803",
+         "image":"https://od.lk/s/NzJfNDQwNTQ3NzNf/Cheb%20Bilal.png"
+      },
+        {
+         "song_name":"39. Parano Ntiya",
+         "artist":"Cheb Bilal",
+         "song_link":"https://www.nozika.co/down.php?s_id=42804",
+         "image":"https://od.lk/s/NzJfNDQwNTQ3NzNf/Cheb%20Bilal.png"
+      },
+        {
+         "song_name":"40. Parce Que Nebghik",
+         "artist":"Cheb Bilal",
+         "song_link":"https://www.nozika.co/down.php?s_id=42805",
+         "image":"https://od.lk/s/NzJfNDQwNTQ3NzNf/Cheb%20Bilal.png"
+      },
+        {
+         "song_name":"41. Rio Dejanero",
+         "artist":"Cheb Bilal",
+         "song_link":"https://www.nozika.co/down.php?s_id=42806",
+         "image":"https://od.lk/s/NzJfNDQwNTQ3NzNf/Cheb%20Bilal.png"
+      },
+        {
+         "song_name":"42. Seraka",
+         "artist":"Cheb Bilal",
+         "song_link":"https://www.nozika.co/down.php?s_id=42807",
+         "image":"https://od.lk/s/NzJfNDQwNTQ3NzNf/Cheb%20Bilal.png"
+      },
+        {
+         "song_name":"43. Valisa",
+         "artist":"Cheb Bilal",
+         "song_link":"https://www.nozika.co/down.php?s_id=42808",
+         "image":"https://od.lk/s/NzJfNDQwNTQ3NzNf/Cheb%20Bilal.png"
+      },
+        {
+         "song_name":"44. Vive Nous",
+         "artist":"Cheb Bilal",
+         "song_link":"https://www.nozika.co/down.php?s_id=42809",
+         "image":"https://od.lk/s/NzJfNDQwNTQ3NzNf/Cheb%20Bilal.png"
+      },
+        {
+         "song_name":"45. Chich Chich",
+         "artist":"Cheb Bilal",
+         "song_link":"https://www.nozika.co/down.php?s_id=42810",
+         "image":"https://od.lk/s/NzJfNDQwNTQ3NzNf/Cheb%20Bilal.png"
+      },
+        {
+         "song_name":"46. Dania Dour",
+         "artist":"Cheb Bilal",
+         "song_link":"https://www.nozika.co/down.php?s_id=42811",
+         "image":"https://od.lk/s/NzJfNDQwNTQ3NzNf/Cheb%20Bilal.png"
+      },
+        {
+         "song_name":"47. Darou Chontage",
+         "artist":"Cheb Bilal",
+         "song_link":"https://www.nozika.co/down.php?s_id=42812",
+         "image":"https://od.lk/s/NzJfNDQwNTQ3NzNf/Cheb%20Bilal.png"
+      },
+        {
+         "song_name":"48. Delali",
+         "artist":"Cheb Bilal",
+         "song_link":"https://www.nozika.co/down.php?s_id=42814",
+         "image":"https://od.lk/s/NzJfNDQwNTQ3NzNf/Cheb%20Bilal.png"
+      },
+        {
+         "song_name":"49. Message",
+         "artist":"Cheb Bilal",
+         "song_link":"https://www.nozika.co/down.php?s_id=42830",
+         "image":"https://od.lk/s/NzJfNDQwNTQ3NzNf/Cheb%20Bilal.png"
+      }
+   ]
+}
