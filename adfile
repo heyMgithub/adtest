@@ -3,11 +3,11 @@
       "adNetwork" :"admob",
       "interstitial_admob":"ca-app-pub-3940256099942544/1033173712",
       "banner_admob":"ca-app-pub-3940256099942544/6300978111",
-      "native_admob":"ca-app-pub-9322101337669156/4518976388",
+      "native_admob":"",
 
-      "interstitial_fan":"IMG_16_9_APP_INSTALL#465986095404427_474869491182754",
-      "banner_fan":"IMG_16_9_APP_INSTALL#465986095404427_474834121186291",
-      "native_fan":"IMG_16_9_APP_INSTALL#465986095404427_474850511184652"
+      "interstitial_fan":"",
+      "banner_fan":"",
+      "native_fan":""
    },
    "Songs" :[
       {
